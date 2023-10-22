@@ -126,7 +126,7 @@ Exponentially weighted rolling statistics (EMAs) are more sensitive to recent da
 Using the rolling statistics it can be inferred that the Growth portfolio has slightly higher risk as compared to the High-Risk portfolio since 2022.
 
 ### Correlation
-The correlation plot across different porfolios is derived and it can be seen that S&P 500 does have a high correlation with most of our portfolios as we derived values from the index. The portfolios among themselves do not indicate high correlation as such.
+The correlation plot reveals that the S&P 500 is closely correlated with our portfolios due to the data source. However, our portfolios show lower correlations with each other.
 
 ![Correlation](./Analysis%20Images/Correlation.png)
 
